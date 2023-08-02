@@ -1,4 +1,4 @@
-# awesome-python-libs
+# Awesome Python Libraries
 A collection of awesome Python libraries
 
 
