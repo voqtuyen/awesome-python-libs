@@ -2,7 +2,7 @@
 A collection of awesome Python libraries
 
 
-## Python
+## Environment management
 - Simple Python version management: https://github.com/pyenv/pyenv
 
 
@@ -12,4 +12,4 @@ A collection of awesome Python libraries
 - Performant type-checking for python: https://github.com/facebook/pyre-check
 
 ## Documentation
-- https://github.com/mkdocs/mkdocs
+- Project documentation with Markdown: https://github.com/mkdocs/mkdocs
