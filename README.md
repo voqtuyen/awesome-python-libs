@@ -3,7 +3,7 @@ A collection of awesome Python libraries
 
 
 ## Python
-- Simple Python management: https://github.com/pyenv/pyenv
+- Simple Python version management: https://github.com/pyenv/pyenv
 
 
 ## Linters
