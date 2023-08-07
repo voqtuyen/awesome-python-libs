@@ -13,3 +13,6 @@ A collection of awesome Python libraries
 
 ## Documentation
 - Project documentation with Markdown: https://github.com/mkdocs/mkdocs
+
+## Machine Learning
+- Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
