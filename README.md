@@ -5,6 +5,8 @@ A collection of awesome Python libraries
 ## Environment management
 - Simple Python version management: https://github.com/pyenv/pyenv
 
+## Data Validation
+- Data validation using Python type hints: https://github.com/pydantic/pydantic
 
 ## Linters
 - Python Linter for performance anti patterns: https://github.com/tonybaloney/perflint
@@ -13,6 +15,10 @@ A collection of awesome Python libraries
 
 ## Documentation
 - Project documentation with Markdown: https://github.com/mkdocs/mkdocs
+
+## GUI
+- Flet enables developers to easily build realtime web, mobile and desktop apps in Python: https://github.com/flet-dev/flet
+- Python applications in the browser: https://github.com/pyscript/pyscript
 
 ## Machine Learning
 - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
