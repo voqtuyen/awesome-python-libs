@@ -19,6 +19,7 @@ A collection of awesome Python libraries
 ## GUI
 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python: https://github.com/flet-dev/flet
 - Python applications in the browser: https://github.com/pyscript/pyscript
+- Web apps in pure Python: https://github.com/reflex-dev/reflex
 
 ## Machine Learning
 - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
