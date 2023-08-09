@@ -4,6 +4,7 @@ A collection of awesome Python libraries
 
 ## Environment management
 - Simple Python version management: https://github.com/pyenv/pyenv
+- Minimal PyPI server for uploading & downloading packages with pip/easy_install: https://github.com/pypiserver/pypiserver
 
 ## Data Validation
 - Data validation using Python type hints: https://github.com/pydantic/pydantic
@@ -24,3 +25,4 @@ A collection of awesome Python libraries
 ## Machine Learning
 - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
 - Simplify your onnx model: https://github.com/daquexian/onnx-simplifier
+
