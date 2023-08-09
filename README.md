@@ -29,6 +29,7 @@ A collection of awesome Python libraries
 ## Machine Learning
 - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
 - Simplify your onnx model: https://github.com/daquexian/onnx-simplifier
+- A unified framework for machine learning with time series: https://github.com/sktime/sktime
 
 ## Vector Database
 - Qdrant - Vector Database for the next generation of AI applications: https://github.com/qdrant/qdrant
