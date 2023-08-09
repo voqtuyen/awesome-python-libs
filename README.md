@@ -8,6 +8,7 @@ A collection of awesome Python libraries
 
 ## Data Validation
 - Data validation using Python type hints: https://github.com/pydantic/pydantic
+- Always know what to expect from your data: https://github.com/great-expectations/great_expectations
 
 ## Linters
 - Python Linter for performance anti patterns: https://github.com/tonybaloney/perflint
