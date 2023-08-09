@@ -22,7 +22,12 @@ A collection of awesome Python libraries
 - Python applications in the browser: https://github.com/pyscript/pyscript
 - Web apps in pure Python: https://github.com/reflex-dev/reflex
 
+## CLI
+- Automatically generating command line interfaces (CLIs) from absolutely any Python object: https://github.com/google/python-fire
+
 ## Machine Learning
 - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application: https://github.com/neuralmagic/deepsparse
 - Simplify your onnx model: https://github.com/daquexian/onnx-simplifier
 
+## Vector Database
+- Qdrant - Vector Database for the next generation of AI applications: https://github.com/qdrant/qdrant
