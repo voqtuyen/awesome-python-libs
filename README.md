@@ -33,3 +33,6 @@ A collection of awesome Python libraries
 
 ## Vector Database
 - Qdrant - Vector Database for the next generation of AI applications: https://github.com/qdrant/qdrant
+
+## Workflow Orchestrator
+- Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines: https://github.com/PrefectHQ/prefect
