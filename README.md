@@ -22,6 +22,7 @@ A collection of awesome Python libraries
 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python: https://github.com/flet-dev/flet
 - Python applications in the browser: https://github.com/pyscript/pyscript
 - Web apps in pure Python: https://github.com/reflex-dev/reflex
+- It's React, but in Python: https://github.com/reactive-python/reactpy
 
 ## CLI
 - Automatically generating command line interfaces (CLIs) from absolutely any Python object: https://github.com/google/python-fire
