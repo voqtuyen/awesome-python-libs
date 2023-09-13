@@ -10,10 +10,11 @@ A collection of awesome Python libraries
 - Data validation using Python type hints: https://github.com/pydantic/pydantic
 - Always know what to expect from your data: https://github.com/great-expectations/great_expectations
 
-## Linters
+## Code Quality
 - Python Linter for performance anti patterns: https://github.com/tonybaloney/perflint
 - An extremely fast Python linter, written in Rust: https://github.com/astral-sh/ruff
 - Performant type-checking for python: https://github.com/facebook/pyre-check
+- Some out-of-the-box hooks for pre-commit: https://github.com/pre-commit/pre-commit-hooks
 
 ## Documentation
 - Project documentation with Markdown: https://github.com/mkdocs/mkdocs
